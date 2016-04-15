@@ -1,0 +1,33 @@
+@charset="UTF-8";
+
+#tabela1 {
+    width: 800px;
+}
+
+table {
+    width: 600px;
+    border-collapse: collapse;	
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+tr {
+    height: 30px;    
+}
+
+#tdNome {
+	text-align: rigth;
+}
+
+#tdMateria{
+	text-align: center;
+}
+
+#tituloTabela {
+	background-color: gray;
+	text-align: center;
+	font-size: 18px;
+}
+
